@@ -17,8 +17,15 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@github.com:UserName/Repository.git"
+        "url": "git@github.com:FredMoreau/com.unity.shadergraph.procedural-targets.git"
     },
-    "samples": [],
+    "samples": [
+        {
+            "displayName": "Shuriken Particles - URP",
+            "description": "A Shuriken Particle System using URP Unlit Procedural.",
+            "path": "Samples~/Shuriken URP"
+        }
+    ],
+
     "hideInEditor": false
 }

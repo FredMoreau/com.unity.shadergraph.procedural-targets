@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shuriken URP - Procedural Custom Target
+  m_Name: Shuriken - Procedural - URP
   m_Shader: {fileID: -6465566751694194690, guid: 37a40caae861a4545b6f10f1f089b888, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 37a40caae861a4545b6f10f1f089b888, type: 3}
   m_ModifiedSerializedProperties: 0
