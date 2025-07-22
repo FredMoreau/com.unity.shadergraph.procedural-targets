@@ -1,0 +1,16 @@
+{
+    "name": "Unity.ShaderGraph.Procedural.Editor",
+    "rootNamespace": "Unity.ShaderGraph.Procedural.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,24 @@
+{
+    "name": "com.unity.shadergraph.procedural-targets",
+    "displayName": "Shader Graph Procedural Targets",
+    "version": "0.0.1-preview.1",
+    "unity": "6000.2",
+    "description": "Shader Graph custom targets supporting procedural instancing.",
+    "author": {
+        "name": "Fred Moreau",
+        "email": "frederic.moreau@unity3d.com",
+        "url": "https://www.unity3d.com"
+    },
+    "keywords": [
+        "unity",
+        "shader graph",
+        "procedural",
+        "instancing"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:UserName/Repository.git"
+    },
+    "samples": [],
+    "hideInEditor": false
+}
