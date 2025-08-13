@@ -20,14 +20,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shuriken - Procedural - URP
+  m_Name: Shuriken - Procedural Unlit
   m_Shader: {fileID: -6465566751694194690, guid: 37a40caae861a4545b6f10f1f089b888, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 37a40caae861a4545b6f10f1f089b888, type: 3}
-  m_ModifiedSerializedProperties: 0
+  m_ModifiedSerializedProperties: 4
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
